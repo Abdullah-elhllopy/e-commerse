@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Abdullah-elhllopy/e-commerse/static/css/main.a617e044.chunk.css",
+    "main.js": "/Abdullah-elhllopy/e-commerse/static/js/main.067d7596.chunk.js",
+    "main.js.map": "/Abdullah-elhllopy/e-commerse/static/js/main.067d7596.chunk.js.map",
+    "runtime-main.js": "/Abdullah-elhllopy/e-commerse/static/js/runtime-main.694e959f.js",
+    "runtime-main.js.map": "/Abdullah-elhllopy/e-commerse/static/js/runtime-main.694e959f.js.map",
+    "static/js/2.a8f0bc47.chunk.js": "/Abdullah-elhllopy/e-commerse/static/js/2.a8f0bc47.chunk.js",
+    "static/js/2.a8f0bc47.chunk.js.map": "/Abdullah-elhllopy/e-commerse/static/js/2.a8f0bc47.chunk.js.map",
+    "static/js/3.fc7efe60.chunk.js": "/Abdullah-elhllopy/e-commerse/static/js/3.fc7efe60.chunk.js",
+    "static/js/3.fc7efe60.chunk.js.map": "/Abdullah-elhllopy/e-commerse/static/js/3.fc7efe60.chunk.js.map",
+    "index.html": "/Abdullah-elhllopy/e-commerse/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Abdullah-elhllopy/e-commerse/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a8f0bc47.chunk.js.LICENSE.txt": "/Abdullah-elhllopy/e-commerse/static/js/2.a8f0bc47.chunk.js.LICENSE.txt",
+    "static/media/commerce.457bea4f.png": "/Abdullah-elhllopy/e-commerse/static/media/commerce.457bea4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694e959f.js",
+    "static/js/2.a8f0bc47.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.067d7596.chunk.js"
+  ]
+}
